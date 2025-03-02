@@ -60,9 +60,15 @@ Before anything note that this work was done by two university students so don't
     ```
 3. **Compile the project**:
     ```bash
-    javac -d bin src/*.java
+    mkdir bin
     ```
-4. **Run the FTree Client**:
+
+4. **Compile the project**:
+    ```bash
+    javac -d bin *.java
+    ```
+
+5. **Run the FTree Client**:
     ```bash
     java -cp bin FTreeClient
     ```

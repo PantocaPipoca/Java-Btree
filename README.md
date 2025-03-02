@@ -11,7 +11,7 @@ Before anything note that this work was done by two university students so don't
 - [Project Structure](#project-structure)
 - [Installation & Setup](#installation--setup)
 - [License](#license)
-- [Acknowledgments] (#Acknowledgments)
+- [Acknowledgments](#Acknowledgments)
 
 ## **Features** 🚀
 

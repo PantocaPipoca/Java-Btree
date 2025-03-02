@@ -10,8 +10,8 @@ Before anything note that this work was done by two university students so don't
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Installation & Setup](#installation--setup)
-- [Usage](#usage)
 - [License](#license)
+- [Acknowledgments] (#Acknowledgments)
 
 ## **Features** 🚀
 

@@ -1,4 +1,4 @@
-# **BTree Toolkit**
+# **BTree Toolkit** 🌳
 Hello world! This Java project consists in a implementation of a simple optimized custom **BTree** data structure with a custom **QuickSort** algorithm with it. This repository includes a command-line client that allows you to interactively manage and explore the tree, along with a custom sorting utility to allow you to easily play with what we made and maybe use in your personal project.
 
 Before anything note that this work was done by two university students so don't take it too seriously because in reality we are just having fun doing something coding related. Feel free to make any comments in relation to code improvements and feel free to use it as you please
@@ -31,13 +31,13 @@ Before anything note that this work was done by two university students so don't
 ---
 
 ## **Project Structure** 🗂️
-BTrees-QSort/
-├── src/
-│   ├── FTreeClient.java       // CLI client for interacting with the FTree
-│   ├── FTree.java             // Custom tree data structure implementation
-│   └── QuickSort.java         // Custom QuickSort algorithm implementation
-├── README.md                  // This file – your guide to the project
-└── LICENSE                    // Project license (MIT)
+**BTrees-QSort**
+- **src/**
+  - **FTreeClient.java** – CLI client for interacting with the FTree
+  - **FTree.java** – Custom tree data structure implementation
+  - **QuickSort.java** – Custom QuickSort algorithm implementation
+- **README.md** – This file – your guide to the project
+- **LICENSE** – Project license (MIT)
 
 ---
 

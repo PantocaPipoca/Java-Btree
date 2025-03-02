@@ -31,7 +31,13 @@ Before anything note that this work was done by two university students so don't
 ---
 
 ## **Project Structure** 🗂️
-FTreeToolkit/ ├── src/ │ ├── FTreeClient.java // CLI client for interacting with the FTree │ ├── FTree.java // Custom tree data structure implementation │ └── QuickSort.java // Custom QuickSort algorithm implementation ├── README.md // This file – your guide to the project └── LICENSE // Project license (MIT)
+BTrees-QSort/
+├── src/
+│   ├── FTreeClient.java       // CLI client for interacting with the FTree
+│   ├── FTree.java             // Custom tree data structure implementation
+│   └── QuickSort.java         // Custom QuickSort algorithm implementation
+├── README.md                  // This file – your guide to the project
+└── LICENSE                    // Project license (MIT)
 
 ---
 

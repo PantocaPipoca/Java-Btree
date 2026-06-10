@@ -1,6 +1,4 @@
----
-
-**FTree & QuickSort**
+# FTree & QuickSort
 
 Two data structures we built for a uni project.
 
@@ -10,7 +8,7 @@ Two data structures we built for a uni project.
 
 Everything uses generics so it works with any `Comparable` type.
 
-**Requirements**
+## Requirements
 
 Java 8 or higher. That's it.
 
